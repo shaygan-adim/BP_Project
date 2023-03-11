@@ -1,0 +1,26 @@
+0 FO Pizza 1000
+{salt=10, meat=50, tomato=5, cheese=10}
+1 FO Burgar 800
+{salt=10, meat=70, bread=2, cheese=5}
+2 FO Beef 1500
+{salt=10, meat=150}
+3 FO FriedChicken 1000
+{salt=10, chicken=70, potato=20}
+4 DR Cafee 200
+{water=5, cafee=10}
+5 DR Tea 100
+{water=5, teabag=1}
+6 DR HotChocolate 250
+{water=5, chocolate=10}
+7 DR Cola 150
+{cola=1}
+8 DR Water 50
+{water=7}
+9 DE ChocolateCake 500
+{cheese=50, chocolate=40, vanilla=50}
+10 DE VanillaCake 400
+{cheese=50, vanilla=65}
+11 AP Salad 200
+{carrot=2, tomato=2, cucumber=2}
+12 AP FrenchFries 300
+{potato=15}

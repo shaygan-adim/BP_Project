@@ -1,0 +1,14 @@
+bread 18
+chicken 98
+salt 23
+cucumber 1
+cafee 8
+tomato 6
+water 18
+cheese 3
+cola 3
+potato 48
+teabag 3
+meat 98
+vanilla 98
+carrot 1
